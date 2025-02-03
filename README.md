@@ -6,7 +6,7 @@ Este proyecto consiste en una página web sencilla que muestra una mini galería
 
 ## Descripción
 
-La página web está diseñada para ser una galería de fotos minimalista con solo 4 imágenes. Es ideal para aprender y practicar habilidades de desarrollo frontend.
+La página web está diseñada para ser una galería de fotos minimalista con solo 4 imágenes.
 
 ## Cómo utilizar
 
