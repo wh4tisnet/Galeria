@@ -1,15 +1,15 @@
-# Mini Galería
+# Mini Gallery
 
-Este proyecto consiste en una página web sencilla que muestra una mini galería de 4 fotos.
+This project consists of a simple web page that displays a mini gallery of 4 photos.
 
 ![Mini Galería](https://github.com/user-attachments/assets/debb8459-cd73-4f0b-9e94-011788f04d47)
 
-## Descripción
+## Description
 
-La página web está diseñada para ser una galería de fotos minimalista con solo 4 imágenes.
+The web page is designed to be a minimalist photo gallery with only 4 images.
 
-## Cómo utilizar
+## How to Use
 
-1. Clona este repositorio en tu máquina local.
+1. Clone this repository to your local machine.
    ```bash
    git clone https://github.com/wh4tisnet/Galeria/
