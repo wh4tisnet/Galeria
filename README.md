@@ -12,4 +12,4 @@ The web page is designed to be a minimalist photo gallery with only 4 images.
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/wh4tisnet/Galeria/
+   git clone https://github.com/wh4tisnet/Gallery/
